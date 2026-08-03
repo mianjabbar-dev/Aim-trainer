@@ -13,9 +13,6 @@ A modern browser-based aim training game that helps improve mouse accuracy, reac
 * 📱 Responsive design
 * 🎨 Clean and modern user interface
 
-## 📸 Preview
-
-> Add a screenshot or GIF of the game here.
 
 ## 🛠️ Technologies Used
 
